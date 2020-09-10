@@ -7,7 +7,7 @@
 # copy it to where your global.abook lives. And, change
 # the other occurance of yourdomain.com in the 
 # (mail=*yourdomain.com) search string to match
-# your mocal mail domain.
+# your local mail domain.
 # 
 
 use Net::LDAP;
